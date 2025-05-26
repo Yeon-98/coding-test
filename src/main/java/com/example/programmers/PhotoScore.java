@@ -31,4 +31,4 @@ class PhotoScore {
     }
 }
 
-/* int array를 이용하는 것 보다 map을 탐색하는 것이 시간복잡도 훨씬 좋다!
+// int array를 이용하는 것 보다 map을 탐색하는 것이 시간복잡도 훨씬 좋다!
